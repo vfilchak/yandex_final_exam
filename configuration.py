@@ -1,3 +1,3 @@
-URL = "https://29939952-d123-4105-ab0f-ede5fb623799.serverhub.praktikum-services.ru/"
+URL = "https://08364721-7c08-45f5-b6c5-10880543d86b.serverhub.praktikum-services.ru/"
 NEW_ORDER = "/api/v1/orders"
 GET_ORDER = "/api/v1/orders/track"
